@@ -1,0 +1,16 @@
+{
+  "name": "thedinodev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://StevenBarnes21.github.io/thedinodev",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
